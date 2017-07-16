@@ -1,5 +1,5 @@
 #This is a morse code generator, input text and the morse code equivalent will be played back.
-#TODO: - pause_word is actually only .2 second pause as a shortcut workaround to letter pausing spaces being added before and after spaces
+#TODO: - pause_word is actually only a 2 unit pause as a temporary workaround to letter_pauses being added before and after spaces
 import time
 import math
 import numpy
